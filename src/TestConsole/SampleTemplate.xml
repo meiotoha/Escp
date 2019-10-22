@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Document>
+  <TextEntry Size="12" Align="Center" >{HotelName}</TextEntry>
+  <TextEntry Size="12" Align="Center" >
+    <TextEntryElement Size="11">{SiteName}</TextEntryElement>
+    <TextEntryElement Size="11">{Fore}</TextEntryElement>
+  </TextEntry>
+  <LineFeed/>
+  <TableEntry>
+    <Column Header="Name" Size="12" Width="12pt" Align="Center" >#Value#</Column>
+    <Column Header="Name" Size="12" Width="12pt" Align="Center" >#Value#</Column>
+    <Column Header="Name" Size="12" Width="12pt" Align="Center" >#Value#</Column>
+  </TableEntry>
+  <LineFeed/>
+</Document>
